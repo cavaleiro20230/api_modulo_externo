@@ -1,5 +1,15 @@
 # api_modulo_externo
 
+
+![image](https://github.com/user-attachments/assets/c482efe7-32c8-46bd-a4af-62957288e148)
+
+
+
+
+
+
+
+
 ### API Java para o Sistema Najason de Fornecedores Externos
 
 Baseado no documento fornecido, vou criar uma API RESTful em Java usando Spring Boot para interagir com o sistema "Najason" de gestão de fornecedores externos.
